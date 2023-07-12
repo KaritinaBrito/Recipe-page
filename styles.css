@@ -195,8 +195,8 @@ footer img{
         color: var(--gray-2); */
     }
     .header-image{
-        width: 352px;
-        height: 202px;
+        width: 85%;
+        height: auto;
     }
     .main-container{
         width: 100%;
@@ -228,6 +228,8 @@ footer img{
         top: -75px;
         height: auto;
         padding: 42px 0;
+        gap: 10px;
+
     }
     .middle-container{
         display: flex;
